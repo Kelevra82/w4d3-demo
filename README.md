@@ -20,7 +20,7 @@ This project is a demo of using [DynamoDB](https://aws.amazon.com/dynamodb/) wit
 - docs/aws-dynamoDB-table.png
 - docs/todo-demo.png
 
-## Day 4 notes
+# Day 4 notes
 
 Added a handleToggle and handleDelete function to the App component to update and delete todos.
 
